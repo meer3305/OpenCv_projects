@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import numpy as np
-import pyttsx3
+import pyttsx3 # optional
 
 # Initialize MediaPipe Pose
 mp_pose = mp.solutions.pose
